@@ -1,4 +1,4 @@
-# BBClassification
+# BoB-Classification
 
 ## Dependencies
 
